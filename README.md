@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suryateja</h1>
 <h3 align="center">Comp Sci undergrad | M.L. developer</h3>
-<img align="right" alt="Coding" width="400" src="https://gifer.com/1Kte">
+<img align="right" alt="Coding" width="400" src="https://github.com/suryateja-challa/suryateja-challa/blob/main/1Kte.gif?raw=true">
 
 - 💻 I’m currently learning **Deep neural networks**
 
@@ -16,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryateja-challa&show_icons=true&theme=dark&locale=en&layout=compact" alt="suryateja-challa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryateja-challa&show_icons=true&locale=en" alt="suryateja-challa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryateja-challa&show_icons=true&locale=en&theme=dark" alt="suryateja-challa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryateja-challa&theme=dark" alt="suryateja-challa" /></p>
