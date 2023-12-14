@@ -16,7 +16,7 @@ I take pride in my role as an avid open-source contributor and a staunch advocat
 <p>
     <br/>
     &nbsp;&nbsp;&nbsp;• Sharing updates on <a href="https://www.linkedin.com/in/suryatejachalla/">LinkedIn</a> 💼 <br>
-    &nbsp;&nbsp;&nbsp;• Read my latest <a href="https://doi.org/10.1109/IC2E357697.2023.10262541">research paper</a> 🔬 <br>
-    &nbsp;&nbsp;&nbsp;• Check out my <a href="https://github.com/suryateja-challa/KMeans-Segmentation-from-Scratch">Image Segmentation</a> project :octocat: <br>
+    &nbsp;&nbsp;&nbsp;• Read my latest <a href="[https://doi.org/10.1109/IC2E357697.2023.10262541](https://www.researchgate.net/publication/374320815_An_Early_Recommendation_Tool_to_Enhance_Medicinal_Plant_Growth_based_on_GIS_and_Soil_Data)">research paper</a> 🔬 <br>
+    &nbsp;&nbsp;&nbsp;• Check out my <a href="https://github.com/surtecha/KMeans-Segmentation-from-Scratch">Image Segmentation</a> project :octocat: <br>
     &nbsp;&nbsp;&nbsp;• Feel free to reach out to me on my <a href="mailto:suryatejachalla.dev@gmail.com">mail</a> 📬 <br>
 </p>
