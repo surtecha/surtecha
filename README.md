@@ -18,6 +18,6 @@ I take pride in my role as an avid open-source contributor and a staunch advocat
 
 #### • Sharing updates on <a href="https://www.linkedin.com/in/suryatejachalla/">LinkedIn</a> 💼 <br>
 #### • Follow me on <a href="https://www.linkedin.com/in/suryatejachalla/"> X (Twitter) </a> 𝕏 <br>
-#### • Read my latest <a href="https://www.researchgate.net/publication/374320815_An_Early_Recommendation_Tool_to_Enhance_Medicinal_Plant_Growth_based_on_GIS_and_Soil_Data">research paper</a> 🔬 <br>
+#### • Read my latest <a href="https://www.nature.com/articles/s41598-024-54465-3">research paper</a> 🔬 <br>
 #### • Check out my <a href="https://github.com/surtecha/ClusterCraft">Image Segmentation</a> project :octocat: <br>
 #### • Feel free to reach out to me on my <a href="mailto:suryatejachalla.dev@gmail.com">mail</a> 📬 
