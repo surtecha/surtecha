@@ -1,9 +1,5 @@
 # Hi, I'm Suryateja 👋
 
-<p align="center">
-    <img src="https://github.com/surtecha/surtecha/assets/91011302/9dcba030-58d3-4efe-91b4-7e7a732cc3e5" alt="surtecha" width="700">
-</p>
-
 I'm an undergraduate student majoring in Computer Science, driven by a deep passion for harnessing the potential of **Machine Learning** to address diverse interdisciplinary challenges. Additionally, I'm actively engaged in academic research at my university and have already achieved the milestone of publishing a research paper. Beyond my Machine Learning projects, I enchance my problem solving skills through competitive programming.<br/>
 
 I take pride in my role as an avid open-source contributor and a staunch advocate for free software.
