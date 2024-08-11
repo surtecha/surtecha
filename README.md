@@ -3,7 +3,7 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Goldman&weight=700&size=80&duration=3500&pause=2500&color=0085CA&center=true&vCenter=true&width=435&height=100&lines=surtecha" alt="Typing SVG" /></a>
     </h2>
     <p align="center">
-        <img src="assets/profile.png" alt="Suryateja's Profile Picture" width="250" height="250" />
+        <img src="assets/profile.png" alt="Suryateja's Profile Picture" width="200" height="200" />
     </p>
     <div align="center"> 
         <a href="mailto:surtecha@gmail.com">
@@ -24,14 +24,53 @@
     </p>
     <hr/>
     <h3 align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Goldman&weight=700&size=24&duration=3500&pause=2500&color=0085CA&center=true&vCenter=true&width=435&height=30&lines=whoami" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Goldman&weight=700&size=30&duration=3500&pause=2500&color=0085CA&center=true&vCenter=true&width=435&height=40&lines=whoami" alt="Typing SVG" /></a>
     </h3>
     <h3 align="center">
         <b>Comp Sci Undergrad &nbsp;&bull;&nbsp; ML Researcher &nbsp;&bull;&nbsp; Indie App Dev &nbsp;&bull;&nbsp; Open-source Contributor</b>
     </h3>
     <hr/>
     <h3 align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Goldman&weight=700&size=24&duration=3500&pause=2500&color=0085CA&center=true&vCenter=true&width=435&height=30&lines=my+tech+stack" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Goldman&weight=700&size=30&duration=3500&pause=2500&color=0085CA&center=true&vCenter=true&width=435&height=40&lines=my+best+works" alt="Typing SVG" /></a>
+    </h3>
+    <table>
+        <tr>
+            <td width="150">
+                <a href="https://github.com/surtecha/karman" target="_blank">
+                    <img src="assets/karman.png" alt="karman Logo" width="200" />
+                </a>
+            </td>
+            <td>
+                <h3>karman</h3>
+                <p><strong>karman</strong> is a minimalist and intuitive productivity app designed to help you manage tasks, track habits, and stay focused. Completely free and open-source, karman is perfect for individuals who value simplicity and efficiency. Coming soon on <strong>Google Play Store</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="150">
+                <a href="https://github.com/surtecha/multi-physics-simulation-engine" target="_blank">
+                    <img src="assets/MPSE.png" alt="MPSE Logo" width="200" />
+                </a>
+            </td>
+            <td>
+                <h3>Multi-Physics Simulation Engine</h3>
+                <p>A comprehensive physics simulation engine written entirely in Python, designed to simulate a wide range of physical phenomena, including fluids, molecular dynamics, and gravitation. It comes with an intuitive user interface, making it accessible and easy to use for both beginners and advanced users.</p>
+            </td>
+        </tr>
+        <tr>
+            <td width="150">
+                <a href="https://github.com/surtecha/SignLangNET" target="_blank">
+                    <img src="assets/SignLangNET.png" alt="SignLangNET Logo" width="200" />
+                </a>
+            </td>
+            <td>
+                <h3>SignLangNET</h3>
+                <p>SignLangNET is a project aimed at interpreting sign language gestures using deep learning techniques. It utilizes the MediaPipe library for hand and body pose estimation and employs Long Short-Term Memory (LSTM) networks for sequence modeling, with a <strong>96.4%</strong> gesture translation accuracy.</p>
+            </td>
+        </tr>
+    </table>
+    <hr/>
+    <h3 align="center">
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Goldman&weight=700&size=30&duration=3500&pause=2500&color=0085CA&center=true&vCenter=true&width=435&height=40&lines=my+tech+stack" alt="Typing SVG" /></a>
     </h3>
     <div align="center">
         <table>
@@ -72,7 +111,4 @@
     </div>
     <br/>
     <hr/>
-    <p align="center">
-        <img width="500" height="500" src="https://github.com/suryateja-challa/suryateja-challa/blob/main/Octocat.png" />
-    </p>
 </div>
