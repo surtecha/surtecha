@@ -41,7 +41,7 @@
                 </a>
             </td>
             <td>
-                <h3>karman</h3>
+                <h3><a href="https://github.com/surtecha/karman" target="_blank">karman</a></h3>
                 <p><strong>karman</strong> is a minimalist and intuitive productivity app designed to help you manage tasks, track habits, and stay focused. Completely free and open-source, karman is perfect for individuals who value simplicity and efficiency. Coming soon on <strong>Google Play Store</strong></p>
             </td>
         </tr>
@@ -52,7 +52,7 @@
                 </a>
             </td>
             <td>
-                <h3>Multi-Physics Simulation Engine</h3>
+                <h3><a href="https://github.com/surtecha/multi-physics-simulation-engine" target="_blank">Multi-Physics Simulation Engine</a></h3>
                 <p>A comprehensive physics simulation engine written entirely in Python, designed to simulate a wide range of physical phenomena, including fluids, molecular dynamics, and gravitation. It comes with an intuitive user interface, making it accessible and easy to use for both beginners and advanced users.</p>
             </td>
         </tr>
@@ -63,7 +63,7 @@
                 </a>
             </td>
             <td>
-                <h3>SignLangNET</h3>
+                <h3><a href="https://github.com/surtecha/SignLangNET" target="_blank">SignLangNET</a></h3>
                 <p>SignLangNET is a project aimed at interpreting sign language gestures using deep learning techniques. It utilizes the MediaPipe library for hand and body pose estimation and employs Long Short-Term Memory (LSTM) networks for sequence modeling, with a <strong>96.4%</strong> gesture translation accuracy.</p>
             </td>
         </tr>
