@@ -7,7 +7,7 @@
         <img src="assets/profile.png" alt="Suryateja's Profile Picture" width="250" height="250" />
     </p>
     <div align="center"> 
-        <a href="mailto:suryatejachalla.dev@gmail.com">
+        <a href="mailto:surtecha@gmail.com">
             <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
