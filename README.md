@@ -42,7 +42,7 @@
             </td>
             <td>
                 <h3><a href="https://github.com/surtecha/karman" target="_blank">karman</a></h3>
-                <p><strong>karman</strong> is a minimalist and intuitive productivity app designed to help you manage tasks, track habits, and stay focused. Completely free and open-source, karman is perfect for individuals who value simplicity and efficiency. Coming soon on <strong>Google Play Store</strong></p>
+                <p><strong>karman</strong> is a minimalist and intuitive productivity app designed to help you manage tasks, track habits, and stay focused. Completely free and open-source, karman is perfect for individuals who value simplicity and efficiency. Available on <strong>Google Play Store</strong></p>
             </td>
         </tr>
         <tr>
