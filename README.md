@@ -1,6 +1,6 @@
 <div align="center">
    <p align="center">
-        <img src="assets/git.png" alt="git" height="350" />
+        <img src="assets/git.png" alt="git" height="200" />
     </p>
     <div align="center"> 
         <a href="mailto:surtecha@gmail.com">
