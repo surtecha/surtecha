@@ -3,8 +3,12 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Goldman&weight=700&size=80&duration=3500&pause=2500&color=0085CA&center=true&vCenter=true&width=435&height=100&lines=surtecha" alt="Typing SVG" /></a>
     </h2>
     <p align="center">
-        <img src="assets/profile.png" alt="Suryateja's Profile Picture" width="200" height="200" />
-    </p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/light.png">
+    <img alt="Suryateja's Profile Picture" src="https://github.com/user-attachments/assets/13c28748-135d-4eff-a01a-4bffb7cf2fb9" height="350">
+  </picture>
+</p>
     <div align="center"> 
         <a href="mailto:surtecha@gmail.com">
             <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
